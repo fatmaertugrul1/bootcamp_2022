@@ -1,0 +1,130 @@
+
+
+
+body{
+    background-color: rgb(123, 163, 150);
+}
+
+.title{
+    display: block;
+    font-size: 75px;
+    color: rgb(11, 11, 78);
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+  
+    text-decoration-color: rgb(2, 26, 45);
+    background-color: rgb(123, 163, 150);
+    
+    border: 10px;
+    border-style: dotted;
+    border-radius: 40px;
+
+   
+    margin: 40px 100px 10px;
+     height: 100px;
+     padding: 10px
+   
+
+}
+.background{
+    height: 300px;
+       position: relative;
+       top: 30px;
+}
+
+.giriş{
+    font-size: 30px;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+    width: 1300px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tarihiyerfotosu{
+    height: 300px;
+    width: 450px;
+    border-radius: 15px;
+}
+
+.tarihlink{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+   
+}
+.yayla{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+    position: relative;
+    top: -365px;
+    left: 750px;
+
+}
+
+.yaylaresmi{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    top: -365px;
+    left: 750px;
+    border-radius: 10px;
+}
+
+.trzm{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+    top: -300px;
+
+}
+.turizm{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+    position: relative;
+    top: -300px;
+    
+}
+
+.ulaş{
+    width: 400px;
+    background: radial-gradient(pink
+    blue);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+    position: relative;
+    top: -690px;
+    left: 750px;
+    border-radius: 10px;
+    
+    background-color:  rgb(220, 151, 200);
+
+}
+.bizeulaş{
+    width: 100px;
+    height: 300px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Calistoga', cursive;
+    color: rgb(17, 17, 65);
+    position: relative;
+    top: -655px;
+    left: 750px;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+  
+    background-color: rgb(220, 151, 200)
+;
+}
